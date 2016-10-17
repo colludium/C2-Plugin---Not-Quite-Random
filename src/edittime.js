@@ -6,7 +6,7 @@
 		"version":		"1.0",					
 		"description":	"Create a random number according to a probability distribution profile",
 		"author":		"Colludium",
-		"help url":		"https://www.scirra.com/forum",
+		"help url":		"https://www.scirra.com/forum/plugin-not-quite-random_t182868",
 		"category":		"General",				
 		"type":			"object",				
 		"rotatable":	false,					
