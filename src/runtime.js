@@ -137,12 +137,6 @@ cr.plugins_.NQ_Random = function (runtime)
     };
 
     pluginProto.exps = new Exps();
-
-
-    pluginProto.exps = new Exps();
-    
-
-
    
 }());
 
