@@ -1,12 +1,12 @@
 ﻿function GetPluginSettings()
 {
 	return {
-		"name":			"NQ Random",			// Not Quite Random, by Colludium, ported from xxxxxxxxxxxxxxx
-		"id":			"NQ_Random",	
+		"name":			"NQ Random",	// Not Quite Random, by Colludium, ported from:
+		"id":			"NQ_Random",	//https://github.com/colludium/C2-Plugin---Not-Quite-Random/blob/master/Fast%20Deterministic%20Random
 		"version":		"1.0",					
-		"description":	"Create a random number according to a probability distribution profile",
+		"description":		"Create a random number according to a probability distribution profile",
 		"author":		"Colludium",
-		"help url":		"https://www.scirra.com/forum",
+		"help url":		"https://www.scirra.com/forum/plugin-not-quite-random_t182868",
 		"category":		"General",				
 		"type":			"object",				
 		"rotatable":	false,					
